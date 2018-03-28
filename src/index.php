@@ -1,1 +1,4 @@
-echo "hi"
+require '../vendor/autoload.php'
+<?php
+echo "hi";
+?>
