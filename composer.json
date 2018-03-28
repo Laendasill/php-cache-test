@@ -1,0 +1,14 @@
+{
+    "name": "laendasill/php-caching-test",
+    "type": "project",
+    "require": {
+        "symfony/cache": "^4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laendasill",
+            "email": "panador@gmail.com"
+        }
+    ]
+}
